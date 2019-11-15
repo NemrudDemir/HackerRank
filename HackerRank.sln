@@ -3,25 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29503.13
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Problem Solving", "Problem Solving", "{DB63C77A-A5D3-4E95-BDCA-2EBFF88C34B3}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solve Me First", "Solve Me First", "{057DE808-E282-4E3D-B142-07839688C1C0}"
-	ProjectSection(SolutionItems) = preProject
-		Problem Solving\Solve Me First\Solution.cs = Problem Solving\Solve Me First\Solution.cs
-	EndProjectSection
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Simple Array Sum", "Simple Array Sum", "{DF466DE3-0F29-4BB8-9686-43F0104BA281}"
-	ProjectSection(SolutionItems) = preProject
-		Problem Solving\Simple Array Sum\Solution.cs = Problem Solving\Simple Array Sum\Solution.cs
-	EndProjectSection
-EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{057DE808-E282-4E3D-B142-07839688C1C0} = {DB63C77A-A5D3-4E95-BDCA-2EBFF88C34B3}
-		{DF466DE3-0F29-4BB8-9686-43F0104BA281} = {DB63C77A-A5D3-4E95-BDCA-2EBFF88C34B3}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {B0F5DB5D-A3A2-44CC-812C-9DA7A586C43A}
