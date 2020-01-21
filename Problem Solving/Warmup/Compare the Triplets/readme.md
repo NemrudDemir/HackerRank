@@ -7,14 +7,14 @@ We define the rating for Alice's challenge to be the triplet ![](./Resources/Ele
 Your task is to find their comparison points by comparing ![](./Resources/Element5.svg) with ![](./Resources/Element6.svg), ![](./Resources/Element7.svg) with ![](./Resources/Element8.svg), and ![](./Resources/Element9.svg) with ![](./Resources/Element10.svg). 
 
 
-* If ![](./Resources/Element11.svg), then Alice is awarded ![](./Resources/Element12.svg) point. 
-* If ![](./Resources/Element13.svg), then Bob is awarded ![](./Resources/Element14.svg) point. 
-* If ![](./Resources/Element15.svg), then neither person receives a point.
+* If ![](./Resources/Element11.svg), then Alice is awarded ![](./Resources/Element1.svg) point. 
+* If ![](./Resources/Element12.svg), then Bob is awarded ![](./Resources/Element1.svg) point. 
+* If ![](./Resources/Element13.svg), then neither person receives a point.
 Comparison points is the total points a person earned.
 
-Given ![](./Resources/Element16.svg) and ![](./Resources/Element17.svg), determine their respective comparison points.
+Given ![](./Resources/Element14.svg) and ![](./Resources/Element15.svg), determine their respective comparison points.
 
-For example, ![](./Resources/Element18.svg) and ![](./Resources/Element19.svg).  For elements ![](./Resources/Element20.svg), Bob is awarded a point because ![](./Resources/Element21.svg).  For the equal elements ![](./Resources/Element22.svg) and ![](./Resources/Element23.svg), no points are earned.  Finally, for elements ![](./Resources/Element24.svg), ![](./Resources/Element25.svg) so Alice receives a point.  Your return array would be ![](./Resources/Element26.svg) with Alice's score first and Bob's second.  
+For example, ![](./Resources/Element16.svg) and ![](./Resources/Element17.svg).  For elements ![](./Resources/Element18.svg), Bob is awarded a point because ![](./Resources/Element19.svg).  For the equal elements ![](./Resources/Element7.svg) and ![](./Resources/Element8.svg), no points are earned.  Finally, for elements ![](./Resources/Element20.svg), ![](./Resources/Element21.svg) so Alice receives a point.  Your return array would be ![](./Resources/Element22.svg) with Alice's score first and Bob's second.  
 
 
 **Function Description**
@@ -29,17 +29,17 @@ compareTriplets has the following parameter(s):
 
 **Input Format**
 
-The first line contains ![](./Resources/Element27.svg) space-separated integers, ![](./Resources/Element28.svg), ![](./Resources/Element29.svg), and ![](./Resources/Element30.svg), describing the respective values in triplet ![](./Resources/Element31.svg). 
+The first line contains ![](./Resources/Element23.svg) space-separated integers, ![](./Resources/Element5.svg), ![](./Resources/Element7.svg), and ![](./Resources/Element9.svg), describing the respective values in triplet ![](./Resources/Element14.svg). 
 
 
-The second line contains ![](./Resources/Element32.svg) space-separated integers, ![](./Resources/Element33.svg), ![](./Resources/Element34.svg), and ![](./Resources/Element35.svg), describing the respective values in triplet ![](./Resources/Element36.svg).
+The second line contains ![](./Resources/Element23.svg) space-separated integers, ![](./Resources/Element6.svg), ![](./Resources/Element8.svg), and ![](./Resources/Element10.svg), describing the respective values in triplet ![](./Resources/Element15.svg).
 
 
 **Constraints**
 
 
-* ![](./Resources/Element37.svg)
-* ![](./Resources/Element38.svg)
+* ![](./Resources/Element24.svg)
+* ![](./Resources/Element25.svg)
 
 **Output Format**
 
@@ -64,15 +64,15 @@ Return an array of two integers denoting the respective comparison points earned
 In this example: 
 
 
-* ![](./Resources/Element39.svg)
-* ![](./Resources/Element40.svg)
+* ![](./Resources/Element26.svg)
+* ![](./Resources/Element27.svg)
 Now, let's compare each individual score:
 
 
-* ![](./Resources/Element41.svg), so Alice receives ![](./Resources/Element42.svg) point.
-* ![](./Resources/Element43.svg), so nobody receives a point.
-* ![](./Resources/Element44.svg), so Bob receives ![](./Resources/Element45.svg) point.
-Alice's comparison score is ![](./Resources/Element46.svg), and Bob's comparison score is ![](./Resources/Element47.svg). Thus, we return the array ![](./Resources/Element48.svg).  
+* ![](./Resources/Element28.svg), so Alice receives ![](./Resources/Element1.svg) point.
+* ![](./Resources/Element29.svg), so nobody receives a point.
+* ![](./Resources/Element30.svg), so Bob receives ![](./Resources/Element1.svg) point.
+Alice's comparison score is ![](./Resources/Element1.svg), and Bob's comparison score is ![](./Resources/Element1.svg). Thus, we return the array ![](./Resources/Element22.svg).  
 
 
 **Sample Input 1**
@@ -90,11 +90,11 @@ Alice's comparison score is ![](./Resources/Element46.svg), and Bob's comparison
 
 **Explanation 1**
 
-Comparing the ![](./Resources/Element49.svg) elements, ![](./Resources/Element50.svg) so Bob receives a point. 
+Comparing the ![](./Resources/Element31.svg) elements, ![](./Resources/Element32.svg) so Bob receives a point. 
 
 
-Comparing the ![](./Resources/Element51.svg) and ![](./Resources/Element52.svg) elements, ![](./Resources/Element53.svg) and ![](./Resources/Element54.svg) so Alice receives two points. 
+Comparing the ![](./Resources/Element33.svg) and ![](./Resources/Element34.svg) elements, ![](./Resources/Element35.svg) and ![](./Resources/Element36.svg) so Alice receives two points. 
 
 
-The return array is ![](./Resources/Element55.svg).  
+The return array is ![](./Resources/Element37.svg).  
 

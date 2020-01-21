@@ -23,16 +23,16 @@ diagonalDifference takes the following parameter:
 
 **Input Format**
 
-The first line contains a single integer, ![](./Resources/Element6.svg),  the number of rows and columns in the matrix ![](./Resources/Element7.svg). 
+The first line contains a single integer, ![](./Resources/Element6.svg),  the number of rows and columns in the matrix ![](./Resources/Element1.svg). 
 
 
-Each of the next ![](./Resources/Element8.svg) lines describes a row, ![](./Resources/Element9.svg), and consists of ![](./Resources/Element10.svg) space-separated integers ![](./Resources/Element11.svg).
+Each of the next ![](./Resources/Element6.svg) lines describes a row, ![](./Resources/Element7.svg), and consists of ![](./Resources/Element6.svg) space-separated integers ![](./Resources/Element8.svg).
 
 
 **Constraints**
 
 
-* ![](./Resources/Element12.svg)
+* ![](./Resources/Element9.svg)
 
 **Output Format**
 

@@ -12,11 +12,11 @@ Complete the timeConversion function in the editor below.  It should return a ne
 timeConversion has the following parameter(s):
 
 
-* s: a string representing time in ![](./Resources/Element2.svg) hour format  
+* s: a string representing time in ![](./Resources/Element1.svg) hour format  
 
 **Input Format**
 
-A single string ![](./Resources/Element3.svg) containing a time in ![](./Resources/Element4.svg)-hour clock format (i.e.: ![](./Resources/Element5.svg) or ![](./Resources/Element6.svg)), where ![](./Resources/Element7.svg) and ![](./Resources/Element8.svg).
+A single string ![](./Resources/Element2.svg) containing a time in ![](./Resources/Element1.svg)-hour clock format (i.e.: ![](./Resources/Element3.svg) or ![](./Resources/Element4.svg)), where ![](./Resources/Element5.svg) and ![](./Resources/Element6.svg).
 
 
 **Constraints**
@@ -26,7 +26,7 @@ A single string ![](./Resources/Element3.svg) containing a time in ![](./Resourc
 
 **Output Format**
 
-Convert and print the given time in ![](./Resources/Element9.svg)-hour format, where ![](./Resources/Element10.svg).
+Convert and print the given time in ![](./Resources/Element7.svg)-hour format, where ![](./Resources/Element8.svg).
 
 
 **Sample Input 0**

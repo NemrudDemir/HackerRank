@@ -29,14 +29,14 @@ breakingRecords has the following parameter(s):
 The first line contains an integer ![](./Resources/Element4.svg), the number of games. 
 
 
-The second line contains ![](./Resources/Element5.svg) space-separated integers describing the respective values of ![](./Resources/Element6.svg).
+The second line contains ![](./Resources/Element4.svg) space-separated integers describing the respective values of ![](./Resources/Element5.svg).
 
 
 **Constraints**
 
 
+* ![](./Resources/Element6.svg)
 * ![](./Resources/Element7.svg)
-* ![](./Resources/Element8.svg)
 
 **Output Format**
 
@@ -62,7 +62,7 @@ The diagram below depicts the number of times Maria broke her best and worst rec
 
 ![](./Resources/1487360234-6bca5c518d-breakingbest3.png)
 
-She broke her best record twice (after games ![](./Resources/Element9.svg) and ![](./Resources/Element10.svg)) and her worst record four times (after games ![](./Resources/Element11.svg), ![](./Resources/Element12.svg), ![](./Resources/Element13.svg), and ![](./Resources/Element14.svg)), so we print ```2 4``` as our answer. Note that she did not break her record for best score during game ![](./Resources/Element15.svg), as her score during that game was not strictly greater than her best record at the time.
+She broke her best record twice (after games ![](./Resources/Element8.svg) and ![](./Resources/Element9.svg)) and her worst record four times (after games ![](./Resources/Element3.svg), ![](./Resources/Element10.svg), ![](./Resources/Element11.svg), and ![](./Resources/Element12.svg)), so we print ```2 4``` as our answer. Note that she did not break her record for best score during game ![](./Resources/Element13.svg), as her score during that game was not strictly greater than her best record at the time.
 
 
 **Sample Input 1**
@@ -84,5 +84,5 @@ The diagram below depicts the number of times Maria broke her best and worst rec
 
 ![](./Resources/1487360375-aee4388234-breakingbest5.png)
 
-She broke her best record four times (after games ![](./Resources/Element16.svg), ![](./Resources/Element17.svg), ![](./Resources/Element18.svg), and ![](./Resources/Element19.svg)) and her worst record zero times (no score during the season was lower than the one she earned during her first game), so we print ```4 0``` as our answer.
+She broke her best record four times (after games ![](./Resources/Element3.svg), ![](./Resources/Element8.svg), ![](./Resources/Element13.svg), and ![](./Resources/Element14.svg)) and her worst record zero times (no score during the season was lower than the one she earned during her first game), so we print ```4 0``` as our answer.
 

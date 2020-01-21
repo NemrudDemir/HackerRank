@@ -25,22 +25,22 @@ getTotalX has the following parameter(s):
 The first line contains two space-separated integers, ![](./Resources/Element13.svg) and ![](./Resources/Element14.svg), the number of elements in array ![](./Resources/Element15.svg) and the number of elements in array ![](./Resources/Element16.svg). 
 
 
-The second line contains ![](./Resources/Element17.svg) distinct space-separated integers describing ![](./Resources/Element18.svg) where ![](./Resources/Element19.svg). 
+The second line contains ![](./Resources/Element13.svg) distinct space-separated integers describing ![](./Resources/Element17.svg) where ![](./Resources/Element18.svg). 
 
 
-The third line contains ![](./Resources/Element20.svg) distinct space-separated integers describing ![](./Resources/Element21.svg) where ![](./Resources/Element22.svg).
+The third line contains ![](./Resources/Element14.svg) distinct space-separated integers describing ![](./Resources/Element19.svg) where ![](./Resources/Element20.svg).
 
 
 **Constraints**
 
 
+* ![](./Resources/Element21.svg)
+* ![](./Resources/Element22.svg)
 * ![](./Resources/Element23.svg)
-* ![](./Resources/Element24.svg)
-* ![](./Resources/Element25.svg)
 
 **Output Format**
 
-Print the number of integers that are considered to be between ![](./Resources/Element26.svg) and ![](./Resources/Element27.svg).
+Print the number of integers that are considered to be between ![](./Resources/Element15.svg) and ![](./Resources/Element16.svg).
 
 
 **Sample Input**

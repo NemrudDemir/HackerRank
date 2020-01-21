@@ -17,7 +17,7 @@ aVeryBigSum has the following parameter(s):
 The first line of the input consists of an integer ![](./Resources/Element1.svg). 
 
 
-The next line contains ![](./Resources/Element2.svg) space-separated integers contained in the array. 
+The next line contains ![](./Resources/Element1.svg) space-separated integers contained in the array. 
 
 
 **Output Format**
@@ -28,10 +28,10 @@ Print the integer sum of the elements in the array.
 **Constraints** 
 
 
-![](./Resources/Element3.svg) 
+![](./Resources/Element2.svg) 
 
 
-![](./Resources/Element4.svg)  
+![](./Resources/Element3.svg)  
 
 
 **Sample Input**  
@@ -49,7 +49,7 @@ Print the integer sum of the elements in the array.
 
 **Note:** 
 
-The range of the 32-bit integer is ![](./Resources/Element5.svg).
+The range of the 32-bit integer is ![](./Resources/Element4.svg).
 
  
 

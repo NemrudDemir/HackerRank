@@ -21,19 +21,19 @@ birthday has the following parameter(s):
 The first line contains an integer ![](./Resources/Element6.svg), the number of squares in the chocolate bar. 
 
 
-The second line contains ![](./Resources/Element7.svg) space-separated integers ![](./Resources/Element8.svg), the numbers on the chocolate squares where ![](./Resources/Element9.svg). 
+The second line contains ![](./Resources/Element6.svg) space-separated integers ![](./Resources/Element7.svg), the numbers on the chocolate squares where ![](./Resources/Element8.svg). 
 
 
-The third line contains two space-separated integers, ![](./Resources/Element10.svg) and ![](./Resources/Element11.svg), Ron's birth day and his birth month.
+The third line contains two space-separated integers, ![](./Resources/Element9.svg) and ![](./Resources/Element10.svg), Ron's birth day and his birth month.
 
 
 **Constraints**
 
 
-* ![](./Resources/Element12.svg)  
-* ![](./Resources/Element13.svg), where (![](./Resources/Element14.svg))     
-* ![](./Resources/Element15.svg)  
-* ![](./Resources/Element16.svg)
+* ![](./Resources/Element11.svg)  
+* ![](./Resources/Element12.svg), where (![](./Resources/Element8.svg))     
+* ![](./Resources/Element13.svg)  
+* ![](./Resources/Element14.svg)
 
 **Output Format**
 
@@ -56,7 +56,7 @@ Print an integer denoting the total number of ways that Lily can portion her cho
 
 **Explanation 0**
 
-Lily wants to give Ron ![](./Resources/Element17.svg) squares summing to ![](./Resources/Element18.svg).  The following two segments meet the criteria:
+Lily wants to give Ron ![](./Resources/Element3.svg) squares summing to ![](./Resources/Element15.svg).  The following two segments meet the criteria:
 
 ![](./Resources/1489060874-a04ddb06cf-choco4.png)
 
@@ -77,11 +77,11 @@ Lily wants to give Ron ![](./Resources/Element17.svg) squares summing to ![](./R
 
 **Explanation 1**
 
-Lily only wants to give Ron ![](./Resources/Element19.svg) consecutive squares of chocolate whose integers sum to ![](./Resources/Element20.svg). There are no possible pieces satisfying these constraints:
+Lily only wants to give Ron ![](./Resources/Element3.svg) consecutive squares of chocolate whose integers sum to ![](./Resources/Element15.svg). There are no possible pieces satisfying these constraints:
 
 ![](./Resources/1489060978-e33d905668-choco5.png)
 
-Thus, we print ![](./Resources/Element21.svg) as our answer.
+Thus, we print ![](./Resources/Element16.svg) as our answer.
 
 
 **Sample Input 2**
@@ -100,5 +100,5 @@ Thus, we print ![](./Resources/Element21.svg) as our answer.
 
 **Explanation 2**
 
-Lily only wants to give Ron ![](./Resources/Element22.svg) square of chocolate with an integer value of ![](./Resources/Element23.svg). Because the only square of chocolate in the bar satisfies this constraint, we print ![](./Resources/Element24.svg) as our answer.
+Lily only wants to give Ron ![](./Resources/Element17.svg) square of chocolate with an integer value of ![](./Resources/Element2.svg). Because the only square of chocolate in the bar satisfies this constraint, we print ![](./Resources/Element18.svg) as our answer.
 

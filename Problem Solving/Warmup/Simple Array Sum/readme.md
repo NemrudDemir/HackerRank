@@ -19,12 +19,12 @@ simpleArraySum has the following parameter(s):
 The first line contains an integer, ![](./Resources/Element4.svg), denoting the size of the array. 
 
 
-The second line contains ![](./Resources/Element5.svg) space-separated integers representing the array's elements.  
+The second line contains ![](./Resources/Element4.svg) space-separated integers representing the array's elements.  
 
 
 **Constraints**
 
-![](./Resources/Element6.svg)    
+![](./Resources/Element5.svg)    
 
 
 **Output Format**
@@ -47,5 +47,5 @@ Print the sum of the array's elements as a single integer.
 
 **Explanation**
 
-We print the sum of the array's elements: ![](./Resources/Element7.svg).
+We print the sum of the array's elements: ![](./Resources/Element6.svg).
 

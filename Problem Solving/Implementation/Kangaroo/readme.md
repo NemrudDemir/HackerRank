@@ -22,15 +22,15 @@ kangaroo has the following parameter(s):
 
 **Input Format**
 
-A single line of four space-separated integers denoting the respective values of ![](./Resources/Element14.svg), ![](./Resources/Element15.svg), ![](./Resources/Element16.svg), and ![](./Resources/Element17.svg).
+A single line of four space-separated integers denoting the respective values of ![](./Resources/Element1.svg), ![](./Resources/Element2.svg), ![](./Resources/Element3.svg), and ![](./Resources/Element4.svg).
 
 
 **Constraints**
 
 
-* ![](./Resources/Element18.svg)  
-* ![](./Resources/Element19.svg)  
-* ![](./Resources/Element20.svg)  
+* ![](./Resources/Element14.svg)  
+* ![](./Resources/Element15.svg)  
+* ![](./Resources/Element16.svg)  
 
 **Output Format**
 
@@ -58,7 +58,7 @@ The two kangaroos jump through the following sequence of locations:
 
 ![](./Resources/1516005283-e74e76ff0c-kangaroo.png)
 
-From the image, it is clear that the kangaroos meet at the same location (number ![](./Resources/Element21.svg) on the number line) after same number of jumps (![](./Resources/Element22.svg) jumps), and we print ```YES```.
+From the image, it is clear that the kangaroos meet at the same location (number ![](./Resources/Element17.svg) on the number line) after same number of jumps (![](./Resources/Element18.svg) jumps), and we print ```YES```.
 
 
 **Sample Input 1**
@@ -75,5 +75,5 @@ NO
 
 **Explanation 1**
 
-The second kangaroo has a starting location that is ahead (further to the right) of the first kangaroo's starting location (i.e., ![](./Resources/Element23.svg)). Because the second kangaroo moves at a faster rate (meaning ![](./Resources/Element24.svg)) and is already ahead of the first kangaroo, the first kangaroo will never be able to catch up. Thus, we print NO. 
+The second kangaroo has a starting location that is ahead (further to the right) of the first kangaroo's starting location (i.e., ![](./Resources/Element19.svg)). Because the second kangaroo moves at a faster rate (meaning ![](./Resources/Element20.svg)) and is already ahead of the first kangaroo, the first kangaroo will never be able to catch up. Thus, we print NO. 
 

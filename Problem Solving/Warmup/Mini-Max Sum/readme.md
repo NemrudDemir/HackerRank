@@ -15,7 +15,7 @@ Complete the miniMaxSum function in the editor below.  It should print two space
 miniMaxSum has the following parameter(s):
 
 
-* arr: an array of ![](./Resources/Element6.svg) integers  
+* arr: an array of ![](./Resources/Element5.svg) integers  
 
 **Input Format**
 
@@ -24,7 +24,7 @@ A single line of five space-separated integers.
 
 **Constraints**
 
-![](./Resources/Element7.svg)  
+![](./Resources/Element6.svg)  
 
 
 **Output Format**
@@ -46,14 +46,14 @@ Print two space-separated long integers denoting the respective minimum and maxi
 
 **Explanation**
 
-Our initial numbers are ![](./Resources/Element8.svg), ![](./Resources/Element9.svg), ![](./Resources/Element10.svg), ![](./Resources/Element11.svg), and ![](./Resources/Element12.svg). We can calculate the following sums using four of the five integers:
+Our initial numbers are ![](./Resources/Element7.svg), ![](./Resources/Element8.svg), ![](./Resources/Element9.svg), ![](./Resources/Element4.svg), and ![](./Resources/Element5.svg). We can calculate the following sums using four of the five integers:
 
 
-1. If we sum everything except ![](./Resources/Element13.svg), our sum is ![](./Resources/Element14.svg).
-2. If we sum everything except ![](./Resources/Element15.svg), our sum is ![](./Resources/Element16.svg).
-3. If we sum everything except ![](./Resources/Element17.svg), our sum is ![](./Resources/Element18.svg).
-4. If we sum everything except ![](./Resources/Element19.svg), our sum is ![](./Resources/Element20.svg).
-5. If we sum everything except ![](./Resources/Element21.svg), our sum is ![](./Resources/Element22.svg).
+1. If we sum everything except ![](./Resources/Element7.svg), our sum is ![](./Resources/Element10.svg).
+2. If we sum everything except ![](./Resources/Element8.svg), our sum is ![](./Resources/Element11.svg).
+3. If we sum everything except ![](./Resources/Element9.svg), our sum is ![](./Resources/Element12.svg).
+4. If we sum everything except ![](./Resources/Element4.svg), our sum is ![](./Resources/Element13.svg).
+5. If we sum everything except ![](./Resources/Element5.svg), our sum is ![](./Resources/Element14.svg).
 
 **Hints:** Beware of integer overflow! Use 64-bit Integer.
 

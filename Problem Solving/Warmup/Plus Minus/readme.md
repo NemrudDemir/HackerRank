@@ -5,7 +5,7 @@ Given an array of integers, calculate the fractions of its elements that are pos
 
 **Note:** This challenge introduces precision problems. The test cases are scaled to six decimal places, though answers with absolute error of up to ![](./Resources/Element1.svg) are acceptable.
 
-For example, given the array ![](./Resources/Element2.svg) there are ![](./Resources/Element3.svg) elements, two positive, two negative and one zero.  Their ratios would be ![](./Resources/Element4.svg), ![](./Resources/Element5.svg) and ![](./Resources/Element6.svg).  It should be printed as  
+For example, given the array ![](./Resources/Element2.svg) there are ![](./Resources/Element3.svg) elements, two positive, two negative and one zero.  Their ratios would be ![](./Resources/Element4.svg), ![](./Resources/Element4.svg) and ![](./Resources/Element5.svg).  It should be printed as  
 
 ```
 0.400000
@@ -24,23 +24,23 @@ plusMinus has the following parameter(s):
 
 **Input Format**
 
-The first line contains an integer, ![](./Resources/Element7.svg), denoting the size of the array. 
+The first line contains an integer, ![](./Resources/Element6.svg), denoting the size of the array. 
 
 
-The second line contains ![](./Resources/Element8.svg) space-separated integers describing an array of numbers ![](./Resources/Element9.svg).
+The second line contains ![](./Resources/Element6.svg) space-separated integers describing an array of numbers ![](./Resources/Element7.svg).
 
 
 **Constraints**
 
-![](./Resources/Element10.svg) 
+![](./Resources/Element8.svg) 
 
 
-![](./Resources/Element11.svg)  
+![](./Resources/Element9.svg)  
 
 
 **Output Format**
 
-You must print the following ![](./Resources/Element12.svg) lines:
+You must print the following ![](./Resources/Element10.svg) lines:
 
 
 1. A decimal representing of the fraction of positive numbers in the array compared to its size.
@@ -64,8 +64,8 @@ You must print the following ![](./Resources/Element12.svg) lines:
 
 **Explanation**
 
-There are ![](./Resources/Element13.svg) positive numbers, ![](./Resources/Element14.svg) negative numbers, and ![](./Resources/Element15.svg) zero in the array. 
+There are ![](./Resources/Element10.svg) positive numbers, ![](./Resources/Element11.svg) negative numbers, and ![](./Resources/Element12.svg) zero in the array. 
 
 
-The proportions of occurrence are positive:  ![](./Resources/Element16.svg), negative:  ![](./Resources/Element17.svg) and zeros:  ![](./Resources/Element18.svg).  
+The proportions of occurrence are positive:  ![](./Resources/Element13.svg), negative:  ![](./Resources/Element14.svg) and zeros:  ![](./Resources/Element15.svg).  
 
