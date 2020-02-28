@@ -29,16 +29,16 @@ Time Conversion     |[C#](./Problem%20Solving/Warmup/Time%20Conversion/Solution.
 | Title             | Solution  | Difficulty                    | Points| Time  | Space
 |-------------------|:---------:|:-----------------------------:|------:|:-----:|:-:
 Grading Students    |[C#](./Problem%20Solving/Implementation/Grading%20Students/Solution.cs)|Easy | 10    |   |
-Aooke and Orange    |[C#]()|Easy | 10    |   |
+Apple and Orange    |[C#](./Problem%20Solving/Implementation/Apple%20and%20Orange/Solution.cs)|Easy | 10    |   |
 Kangaroo            |[C#](./Problem%20Solving/Implementation/Kangaroo/Solution.cs)|Easy | 10    |   |
 Between Two Sets    |[C#](./Problem%20Solving/Implementation/Between%20Two%20Sets/Solution.cs)|Easy | 10    |   |
 Breaking the Records|[C#](./Problem%20Solving/Implementation/Breaking%20the%20Records/Solution.cs)|Easy | 10    |   |
 Birthday Chocolate  |[C#](./Problem%20Solving/Implementation/Birthday%20Chocolate/Solution.cs)|Easy | 10    |   |
-Divisible Sum Pairs |[C#]()|Easy | 10    |   |
-Migritaory Birds    |[C#]()|Easy | 10    |   |
+Divisible Sum Pairs |[C#](./Problem%20Solving/Implementation/Divisible%20Sum%20Pairs/Solution.cs)|Easy | 10    |   |
+Migratory Birds    |[C#](./Problem%20Solving/Implementation/Migratory%20Birds/Solution.cs)|Easy | 10    |   |
 Day of the Programmer|[C#](./Problem%20Solving/Implementation/Day%20of%20the%20Programmer/Solution.cs)|Easy | 15    |   |
-Bon Appétit         |[C#]()|Easy | 10    |   |
-Sock Merchant       |[C#]()|Easy | 10    |   |
+Bon Appétit         |[C#](./Problem%20Solving/Implementation/Bon%20Appetit/Solution.cs)|Easy | 10    |   |
+Sock Merchant       |[C#](./Problem%20Solving/Implementation/Sock%20Merchant/Solution.cs)|Easy | 10    |   |
 Drawing Book        |[C#](./Problem%20Solving/Implementation/Drawing%20Book/Solution.cs)|Easy | 10    |   |
 Counting Valleys    |[C#](./Problem%20Solving/Implementation/Counting%20Valleys/Solution.cs)|Easy | 15    |   |
 Electronics Shop    |[C#](./Problem%20Solving/Implementation/Electronics%20Shop/Solution.cs)|Easy | 15    |   |
