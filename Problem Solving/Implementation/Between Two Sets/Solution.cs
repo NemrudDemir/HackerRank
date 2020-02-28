@@ -16,6 +16,7 @@ class Result
 {
     public static int getTotalX(List<int> a, List<int> b)
     {
+        //TODO improve time complexity!
         a.Sort();
         b.Sort();
 
