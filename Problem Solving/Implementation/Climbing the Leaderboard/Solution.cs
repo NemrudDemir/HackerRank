@@ -15,7 +15,7 @@ using System;
 class Solution {
 
     static List<int> climbingLeaderboard(int[] scores, int[] alice) {
-        var newScores = new List<int>();
+        var newScores = new List<int>(); //TODO improve(?)
         var lastScore = int.MinValue;
         foreach(var score in scores) {
             if(score == lastScore)

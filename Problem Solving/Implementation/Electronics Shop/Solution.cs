@@ -7,7 +7,7 @@ class Solution {
 
     static int getMoneySpent(int[] keyboards, int[] drives, int b) {
         var result = -1;
-        foreach(var keyboard in keyboards) {
+        foreach(var keyboard in keyboards) { //TODO improve(?)
             if(keyboard >= b)
                 continue;
             foreach(var drive in drives) {
