@@ -25,7 +25,6 @@ Birthday Cake Candles|[C#](./Problem%20Solving/Warmup/Birthday%20Cake%20Candles/
 Time Conversion     |[C#](./Problem%20Solving/Warmup/Time%20Conversion/Solution.cs)|Easy | 10    | O(1)  | O(1)
 
 ### Implementation
-
 | Title             | Solution  | Difficulty                    | Points| Time  | Space
 |-------------------|:---------:|:-----------------------------:|------:|:-----:|:-:
 Grading Students    |[C#](./Problem%20Solving/Implementation/Grading%20Students/Solution.cs)|Easy | 10    |O(n)| O(1)
@@ -53,3 +52,5 @@ Angry Professor     |[C#](./Problem%20Solving/Implementation/Angry%20Professor/S
 Beautiful Days at the Movies|[C#](./Problem%20Solving/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.cs)|Easy | 15    |O(n)|O(1)
 Viral Advertising   |[C#](./Problem%20Solving/Implementation/Viral%20Advertising/Solution.cs)|Easy | 15    |O(n)|O(1)
 Save the Prisoner!  |[C#](./Problem%20Solving/Implementation/Save%20the%20Prisoner!/Solution.cs)|Easy | 15    |O(1)|O(1)
+Circular Array Rotation|[C#](./Problem%20Solving/Implementation/Circular%20Array%20Rotation/Solution.cs)|Easy|20|O(n)|O(1)
+
