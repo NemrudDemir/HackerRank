@@ -50,6 +50,6 @@ The Hurdle Race     |[C#](./Problem%20Solving/Implementation/The%20Hurdle%20Race
 Designer PDF Viewer |[C#](./Problem%20Solving/Implementation/Designer%20PDF%20Viewer/Solution.cs)|Easy | 20    |   |
 Utopian Tree        |[C#](./Problem%20Solving/Implementation/Utopian%20Tree/Solution.cs)|Easy | 20    |   |
 Angry Professor     |[C#](./Problem%20Solving/Implementation/Angry%20Professor/Solution.cs)|Easy | 20    |   |
-Beautiful Days at the Movies|[C#]()|Easy | 15    |   |
-Viral Advertising   |[C#]()|Easy | 15    |   |
-Save the Prisoner!  |[C#]()|Easy | 15    |   |
+Beautiful Days at the Movies|[C#](./Problem%20Solving/Implementation/Beautiful%20Days%20at%20the%20Movies/Solution.cs)|Easy | 15    |   |
+Viral Advertising   |[C#](./Problem%20Solving/Implementation/Viral%20Advertising/Solution.cs)|Easy | 15    |   |
+Save the Prisoner!  |[C#](./Problem%20Solving/Implementation/Save%20the%20Prisoner!/Solution.cs)|Easy | 15    |   |
