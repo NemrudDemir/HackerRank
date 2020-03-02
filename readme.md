@@ -53,4 +53,4 @@ Beautiful Days at the Movies|[C#](./Problem%20Solving/Implementation/Beautiful%2
 Viral Advertising   |[C#](./Problem%20Solving/Implementation/Viral%20Advertising/Solution.cs)|Easy | 15    |O(n)|O(1)
 Save the Prisoner!  |[C#](./Problem%20Solving/Implementation/Save%20the%20Prisoner!/Solution.cs)|Easy | 15    |O(1)|O(1)
 Circular Array Rotation|[C#](./Problem%20Solving/Implementation/Circular%20Array%20Rotation/Solution.cs)|Easy|20|O(n)|O(1)
-
+Sequence Equation|[C#](./Problem%20Solving/Implementation/Sequence%20Equation/Solution.cs)|Easy|20|O(n)|O(n)
