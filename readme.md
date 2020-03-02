@@ -54,3 +54,7 @@ Viral Advertising   |[C#](./Problem%20Solving/Implementation/Viral%20Advertising
 Save the Prisoner!  |[C#](./Problem%20Solving/Implementation/Save%20the%20Prisoner!/Solution.cs)|Easy | 15    |O(1)|O(1)
 Circular Array Rotation|[C#](./Problem%20Solving/Implementation/Circular%20Array%20Rotation/Solution.cs)|Easy|20|O(n)|O(1)
 Sequence Equation|[C#](./Problem%20Solving/Implementation/Sequence%20Equation/Solution.cs)|Easy|20|O(n)|O(n)
+Jumping on the Clouds: Revisited|[C#](./Problem%20Solving/Implementation/Jumping%20on%20the%20Clouds%20Revisited/Solution.cs)|Easy|15|O(n)|O(1)
+Find Digits |[C#](./Problem%20Solving/Implementation/Find%20Digits/Solution.cs)|Easy|25|O(logn)|O(1)
+Extra Long Factorials|[C#](./Problem%20Solving/Implementation/Extra%20Long%20Factorials/Solution.cs)|Medium|20|O(n)|O(1)
+Append and Delete|[C#](./Problem%20Solving/Implementation/Append%20and%20Delete/Solution.cs)|Easy|20|O(1)|O(1)
