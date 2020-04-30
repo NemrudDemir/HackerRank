@@ -17,7 +17,7 @@ steps:
       Write-Host "ThisIsASecretAndShouldNotBeVisible"
       Write-Host "ThisIsASecretAndShouldNotBeVisible!"
       Write-Host "$(MYSECRET)"
-      $svalue = [string]$(MYSECRET)
+      $svalue = [string]$env:MYSECRET
       Write-Host $svalue.Substring(0, 1)
       Write-Host ${env:MYSECRET}.Substring(0, 1)
       # $list = new-object System.Collections.Generic.Dictionary<string, string>
