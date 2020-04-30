@@ -14,13 +14,15 @@ steps:
   inputs:
     targetType: 'inline'
     script: |
+      # [string]::Format($(MYSECRET)) # SHOWS FULL PASSWORD!!!
       Write-Host "ThisIsASecretAndShouldNotBeVisible"
       Write-Host "ThisIsASecretAndShouldNotBeVisible!"
       Write-Host "$(MYSECRET)"
       $svalue = [string]$env:MYSECRET
       Write-Host "sval = $svalue"
       Write-Host "ToString = $(MYSECRET).ToString()"
-      [string]::Format($(MYSECRET))
+      $var2 = [string]::Format("{0}", $(MYSECRET))
+      Write-Host $var2
       Write-Host $svalue.Substring(0, 1)
       Write-Host ${env:MYSECRET}.Substring(0, 1)
       # $list = new-object System.Collections.Generic.Dictionary<string, string>
