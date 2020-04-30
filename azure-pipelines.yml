@@ -13,4 +13,9 @@ steps:
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
-    script: 'Write-Host "Test " + $(MYSECRET)'
+    script: '[string]::Format("Test " + $(MYSECRET))'
+
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: '[string]::Format("Test {0}", $(MYSECRET))'
