@@ -14,6 +14,14 @@ steps:
   inputs:
     targetType: 'inline'
     script: |
+      $list = new-object System.Collections.Generic.List<string>
+      $list.Add("Bearer " + $(MYSECRET));
+    errorActionPreference: 'continue'
+
+- task: PowerShell@2
+  inputs:
+    targetType: 'inline'
+    script: |
       $web = new-object System.Net.Http.HttpClient
       $web.Headers.Add([System.Net.HttpRequestHeader]::Authorization, "Bearer " + $(MYSECRET));
     errorActionPreference: 'continue'
@@ -22,3 +30,4 @@ steps:
   inputs:
     targetType: 'inline'
     script: '[string]::Format("Test {0}", $(MYSECRET))'
+    ignoreLASTEXITCODE: true
