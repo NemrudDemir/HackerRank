@@ -14,7 +14,8 @@ steps:
   inputs:
     targetType: 'inline'
     script: |
-      # [string]::Format($(MYSECRET)) # SHOWS FULL PASSWORD!!!
+      [string]::Format($(secret2)) # SHOWS FULL PASSWORD!!!
+      [string]::Format(${env:SECRET2}) # SHOWS FULL PASSWORD!!!
       Write-Host "ThisIsASecretAndShouldNotBeVisible"
       Write-Host "ThisIsASecretAndShouldNotBeVisible!"
       Write-Host "$(MYSECRET)"
