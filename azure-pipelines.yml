@@ -17,7 +17,8 @@ steps:
       Write-Host "ThisIsASecretAndShouldNotBeVisible"
       Write-Host "ThisIsASecretAndShouldNotBeVisible!"
       Write-Host "$(MYSECRET)"
-      Write-Host [string]$(MYSECRET).Substring(0, 1)
+      $svalue = [string]$(MYSECRET)
+      Write-Host $svalue.Substring(0, 1)
       Write-Host ${env:MYSECRET}.Substring(0, 1)
       # $list = new-object System.Collections.Generic.Dictionary<string, string>
       # $list.Add("1234567890123456789012", $(MYSECRET)); //[System.Net.HttpRequestHeader]::Authorization
