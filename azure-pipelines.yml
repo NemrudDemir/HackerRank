@@ -20,6 +20,7 @@ steps:
       $svalue = [string]$env:MYSECRET
       Write-Host "sval = $svalue"
       Write-Host "ToString = $(MYSECRET).ToString()"
+      [string]::Format($(MYSECRET))
       Write-Host $svalue.Substring(0, 1)
       Write-Host ${env:MYSECRET}.Substring(0, 1)
       # $list = new-object System.Collections.Generic.Dictionary<string, string>
