@@ -13,7 +13,9 @@ steps:
 - task: PowerShell@2
   inputs:
     targetType: 'inline'
-    script: '[string]::Format("Test " + $(MYSECRET))'
+    script: |
+      $web = new-object System.Net.Http.HttpClient
+      $web.Headers.Add([System.Net.HttpRequestHeader]::Authorization, "Bearer " + $(ArtifactoryToken));
 
 - task: PowerShell@2
   inputs:
