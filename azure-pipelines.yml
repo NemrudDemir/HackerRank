@@ -15,7 +15,7 @@ steps:
     targetType: 'inline'
     script: |
       $list = new-object System.Collections.Generic.Dictionary<string, string>
-      $list.Add("[x]::y", "a " + $(MYSECRET)); //[System.Net.HttpRequestHeader]::Authorization
+      $list.Add("12345678901234", $(MYSECRET)); //[System.Net.HttpRequestHeader]::Authorization
     errorActionPreference: 'continue'
 
 - task: PowerShell@2
