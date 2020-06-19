@@ -15,7 +15,7 @@
 |-------------------|:---------:|:-----------------------------:|------:|:-----:|:-:
 Solve Me First      |[C#](./Problem%20Solving/Warmup/Solve%20Me%20First/Solution.cs)|Easy | 1     | O(1)  | O(1)
 Simple Array Sum    |[C#](./Problem%20Solving/Warmup/Simple%20Array%20Sum/Solution.cs)|Easy | 10    | O(n)  | O(1)
-Compare The Triplets|[C#](./Problem%20Solving/Warmup/Compare%20the%20Triplets/Solution.cs)|Easy | 10    | O(n)  | O(1)
+Compare the Triplets|[C#](./Problem%20Solving/Warmup/Compare%20the%20Triplets/Solution.cs)|Easy | 10    | O(n)  | O(1)
 A Very Big Sum      |[C#](./Problem%20Solving/Warmup/A%20Very%20Big%20Sum/Solution.cs)|Easy | 10    | O(n)  | O(1)
 Diagonal Difference |[C#](./Problem%20Solving/Warmup/Diagonal%20Difference/Solution.cs)|Easy | 10    | O(n)  | O(1)
 Plus Minus          |[C#](./Problem%20Solving/Warmup/Plus%20Minus/Solution.cs)|Easy | 10    | O(n)  | O(1)
@@ -62,3 +62,6 @@ Sherlock and Squares|[C#](./Problem%20Solving/Implementation/Sherlock%20and%20Sq
 Library Fine|[C#](./Problem%20Solving/Implementation/Library%20Fine/Solution.cs)|Easy|15|O(1)|O(1)
 Cut the sticks|[C#](./Problem%20Solving/Implementation/Cut%20the%20sticks/Solution.cs)|Easy|20|O(n*logn)|O(n)
 Non-Divisible Subset|[C#](./Problem%20Solving/Implementation/Non-Divisible%20Subset/Solution.cs)|Medium|20|O(n)|O(n)
+Repeated String|[C#](./Problem%20Solving/Implementation/Repeated%20String/Solution.cs)|Easy|20|O(1)|O(1)
+Jumping on the Clouds|[C#](./Problem%20Solving/Implementation/Jumping%20on%20the%20Clouds/Solution.cs)|Easy|20|O(n)|O(1)
+Equalize the Array|[C#](./Problem%20Solving/Implementation/Equalize%20the%20Array/Solution.cs)|Easy|20|O(n)|O(n)
