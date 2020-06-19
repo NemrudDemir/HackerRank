@@ -3,7 +3,7 @@
         <img height=85 src="./Resources/hackerrank_logo.svg">
     </a>
     <br>
-    Effecient solutions to problems on HackerRank written in C#
+    Efficient solutions to problems on HackerRank written in C#
 </p>
 
 ## Algorithms
