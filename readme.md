@@ -58,3 +58,7 @@ Jumping on the Clouds: Revisited|[C#](./Problem%20Solving/Implementation/Jumping
 Find Digits |[C#](./Problem%20Solving/Implementation/Find%20Digits/Solution.cs)|Easy|25|O(logn)|O(1)
 Extra Long Factorials|[C#](./Problem%20Solving/Implementation/Extra%20Long%20Factorials/Solution.cs)|Medium|20|O(n)|O(1)
 Append and Delete|[C#](./Problem%20Solving/Implementation/Append%20and%20Delete/Solution.cs)|Easy|20|O(1)|O(1)
+Sherlock and Squares|[C#](./Problem%20Solving/Implementation/Sherlock%20and%20Squares/Solution.cs)|Easy|20|O(n)|O(1)
+Library Fine|[C#](./Problem%20Solving/Implementation/Library%20Fine/Solution.cs)|Easy|15|O(1)|O(1)
+Cut the sticks|[C#](./Problem%20Solving/Implementation/Cut%20the%20sticks/Solution.cs)|Easy|20|O(n*logn)|O(n)
+Non-Divisible Subset|[C#](./Problem%20Solving/Implementation/Non-Divisible%20Subset/Solution.cs)|Medium|20|O(n)|O(n)
