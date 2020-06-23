@@ -75,3 +75,4 @@
 [Beautiful Triplets](./Problem%20Solving/Implementation/Beautiful%20Triplets)|[C#](./Problem%20Solving/Implementation/Beautiful%20Triplets/Solution.cs)|Easy|20|O(n)|O(n)
 [Minimum Distances](./Problem%20Solving/Implementation/Minimum%20Distances)|[C#](./Problem%20Solving/Implementation/Minimum%20Distances/Solution.cs)|Easy|20|O(n)|O(n)
 [Halloween Sale](./Problem%20Solving/Implementation/Halloween%20Sale)|[C#](./Problem%20Solving/Implementation/Halloween%20Sale/Solution.cs)|Easy|20|O(n)|O(1)
+[The Time in Words](./Problem%20Solving/Implementation/The%20Time%20in%20Words)|[C#](./Problem%20Solving/Implementation/The%20Time%20in%20Words/Solution.cs)|Medium|25|O(1)|O(1)
