@@ -65,3 +65,7 @@ Non-Divisible Subset|[C#](./Problem%20Solving/Implementation/Non-Divisible%20Sub
 Repeated String|[C#](./Problem%20Solving/Implementation/Repeated%20String/Solution.cs)|Easy|20|O(1)|O(1)
 Jumping on the Clouds|[C#](./Problem%20Solving/Implementation/Jumping%20on%20the%20Clouds/Solution.cs)|Easy|20|O(n)|O(1)
 Equalize the Array|[C#](./Problem%20Solving/Implementation/Equalize%20the%20Array/Solution.cs)|Easy|20|O(n)|O(n)
+Queen's Attack II|[C#](./Problem%20Solving/Implementation/Queen's%20Attack%20II/Solution.cs)|Medium|30|O(n)|O(n)
+ACM ICPC Team|[C#](./Problem%20Solving/Implementation/ACM%20ICPC%20Team/Solution.cs)|Easy|25|O(n^2)|O(1)
+Taum and B'day|[C#](./Problem%20Solving/Implementation/Taum%20and%20B'day/Solution.cs)|Easy|25|O(1)|O(1)
+Organizing Containers of Balls|[C#](./Problem%20Solving/Implementation/Organizing%20Containers%20of%20Balls/Solution.cs)|Medium|30|O(n)|O(n)
