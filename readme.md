@@ -78,3 +78,4 @@
 [The Time in Words](./Problem%20Solving/Implementation/The%20Time%20in%20Words)|[C#](./Problem%20Solving/Implementation/The%20Time%20in%20Words/Solution.cs)|Medium|25|O(1)|O(1)
 [Chocolate Feast](./Problem%20Solving/Implementation/Chocolate%20Feast)|[C#](./Problem%20Solving/Implementation/Chocolate%20Feast/Solution.cs)|Easy|25|O(n)|O(1)
 [Service Lane](./Problem%20Solving/Implementation/Service%20Lane)|[C#](./Problem%20Solving/Implementation/Service%20Lane/Solution.cs)|Easy|20|O(n)|O(1)
+[Lisa's Workbook](./Problem%20Solving/Implementation/Lisa's%20Workbook)|[C#](./Problem%20Solving/Implementation/Lisa's%20Workbook/Solution.cs)|Easy|25|O(n)|O(1)
