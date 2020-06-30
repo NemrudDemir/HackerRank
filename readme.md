@@ -77,3 +77,4 @@
 [Halloween Sale](./Problem%20Solving/Implementation/Halloween%20Sale)|[C#](./Problem%20Solving/Implementation/Halloween%20Sale/Solution.cs)|Easy|20|O(n)|O(1)
 [The Time in Words](./Problem%20Solving/Implementation/The%20Time%20in%20Words)|[C#](./Problem%20Solving/Implementation/The%20Time%20in%20Words/Solution.cs)|Medium|25|O(1)|O(1)
 [Chocolate Feast](./Problem%20Solving/Implementation/Chocolate%20Feast)|[C#](./Problem%20Solving/Implementation/Chocolate%20Feast/Solution.cs)|Easy|25|O(n)|O(1)
+[Service Lane](./Problem%20Solving/Implementation/Service%20Lane)|[C#](./Problem%20Solving/Implementation/Service%20Lane/Solution.cs)|Easy|20|O(n)|O(1)
