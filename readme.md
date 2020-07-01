@@ -80,3 +80,4 @@
 [Service Lane](./Problem%20Solving/Implementation/Service%20Lane)|[C#](./Problem%20Solving/Implementation/Service%20Lane/Solution.cs)|Easy|20|O(n)|O(1)
 [Lisa's Workbook](./Problem%20Solving/Implementation/Lisa's%20Workbook)|[C#](./Problem%20Solving/Implementation/Lisa's%20Workbook/Solution.cs)|Easy|25|O(n)|O(1)
 [Flatland Space Stations](./Problem%20Solving/Implementation/Flatland%20Space%20Stations)|[C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Solution.cs)|Easy|25|O(n)|O(n)
+[Fair Rations](./Problem%20Solving/Implementation/Fair%20Rations)|[C#](./Problem%20Solving/Implementation/Fair%20Rations/Solution.cs)|Easy|25|O(n)|O(1)
