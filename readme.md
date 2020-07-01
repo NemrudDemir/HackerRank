@@ -82,3 +82,4 @@
 [Flatland Space Stations](./Problem%20Solving/Implementation/Flatland%20Space%20Stations)|[C#](./Problem%20Solving/Implementation/Flatland%20Space%20Stations/Solution.cs)|Easy|25|O(n)|O(n)
 [Fair Rations](./Problem%20Solving/Implementation/Fair%20Rations)|[C#](./Problem%20Solving/Implementation/Fair%20Rations/Solution.cs)|Easy|25|O(n)|O(1)
 [Cavity Map](./Problem%20Solving/Implementation/Cavity%20Map)|[C#](./Problem%20Solving/Implementation/Cavity%20Map/Solution.cs)|Easy|30|O(n^2)|O(1)
+[Manasa and Stones](./Problem%20Solving/Implementation/Manasa%20and%20Stones)|[C#](./Problem%20Solving/Implementation/Manasa%20and%20Stones/Solution.cs)|Easy|30|O(n)|O(n)
