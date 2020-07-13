@@ -84,3 +84,4 @@
 [Cavity Map](./Problem%20Solving/Implementation/Cavity%20Map)|[C#](./Problem%20Solving/Implementation/Cavity%20Map/Solution.cs)|Easy|30|O(n^2)|O(1)
 [Manasa and Stones](./Problem%20Solving/Implementation/Manasa%20and%20Stones)|[C#](./Problem%20Solving/Implementation/Manasa%20and%20Stones/Solution.cs)|Easy|30|O(n)|O(n)
 [The Grid Search](./Problem%20Solving/Implementation/The%20Grid%20Search)|[C#](./Problem%20Solving/Implementation/The%20Grid%20Search/Solution.cs)|Medium|30|O(n^2)|O(1)
+[Happy Ladybugs](./Problem%20Solving/Implementation/Happy%20Ladybugs)|[C#](./Problem%20Solving/Implementation/Happy%20Ladybugs/Solution.cs)|Easy|30|O(n)|O(n)
