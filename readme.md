@@ -90,3 +90,4 @@
 [Absolute Permutation](./Problem%20Solving/Implementation/Absolute%20Permutation)|[C#](./Problem%20Solving/Implementation/Absolute%20Permutation/Solution.cs)|Medium|40|O(1)|O(1)
 [The Bomberman Game](./Problem%20Solving/Implementation/The%20Bomberman%20Game)|[C#](./Problem%20Solving/Implementation/The%20Bomberman%20Game/Solution.cs)|Medium|40|O(n)|O(1)
 [Larry's Array](./Problem%20Solving/Implementation/Larry's%20Array)|[C#](./Problem%20Solving/Implementation/Larry's%20Array/Solution.cs)|Medium|40|O(n^2)|O(1)
+[Almost Sorted](./Problem%20Solving/Implementation/Almost%20Sorted)|[C#](./Problem%20Solving/Implementation/Almost%20Sorted/Solution.cs)|Medium|50|O(n*logn)|O(n)
