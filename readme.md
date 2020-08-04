@@ -88,3 +88,5 @@
 [Strange Counter](./Problem%20Solving/Implementation/Strange%20Counter)|[C#](./Problem%20Solving/Implementation/Strange%20Counter/Solution.cs)|Easy|30|O(1)|O(1)
 [3D Surface Area](./Problem%20Solving/Implementation/3D%20Surface%20Area)|[C#](./Problem%20Solving/Implementation/3D%20Surface%20Area/Solution.cs)|Medium|30|O(n^2)|O(1)
 [Absolute Permutation](./Problem%20Solving/Implementation/Absolute%20Permutation)|[C#](./Problem%20Solving/Implementation/Absolute%20Permutation/Solution.cs)|Medium|40|O(1)|O(1)
+[The Bomberman Game](./Problem%20Solving/Implementation/The%20Bomberman%20Game)|[C#](./Problem%20Solving/Implementation/The%20Bomberman%20Game/Solution.cs)|Medium|40|O(n)|O(1)
+[Larry's Array](./Problem%20Solving/Implementation/Larry's%20Array)|[C#](./Problem%20Solving/Implementation/Larry's%20Array/Solution.cs)|Medium|40|O(n^2)|O(1)
