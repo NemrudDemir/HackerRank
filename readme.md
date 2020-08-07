@@ -91,3 +91,4 @@
 [The Bomberman Game](./Problem%20Solving/Implementation/The%20Bomberman%20Game)|[C#](./Problem%20Solving/Implementation/The%20Bomberman%20Game/Solution.cs)|Medium|40|O(n)|O(1)
 [Larry's Array](./Problem%20Solving/Implementation/Larry's%20Array)|[C#](./Problem%20Solving/Implementation/Larry's%20Array/Solution.cs)|Medium|40|O(n^2)|O(1)
 [Almost Sorted](./Problem%20Solving/Implementation/Almost%20Sorted)|[C#](./Problem%20Solving/Implementation/Almost%20Sorted/Solution.cs)|Medium|50|O(n*logn)|O(n)
+[Matrix Layer Rotation](./Problem%20Solving/Implementation/Matrix%20Layer%20Rotation)|[C#](./Problem%20Solving/Implementation/Matrix%20Layer%20Rotation/Solution.cs)|Hard|80|O(n)|O(1)
