@@ -88,3 +88,5 @@
 [Almost Sorted](./Problem%20Solving/Algorithms/Almost%20Sorted)|[C#](./Problem%20Solving/Algorithms/Almost%20Sorted/Solution.cs)|Medium|50|O(n*logn)|O(n)
 [Matrix Layer Rotation](./Problem%20Solving/Algorithms/Matrix%20Layer%20Rotation)|[C#](./Problem%20Solving/Algorithms/Matrix%20Layer%20Rotation/Solution.cs)|Hard|80|O(n)|O(1)
 [Big Sorting](./Problem%20Solving/Algorithms/Big%20Sorting)|[C#](./Problem%20Solving/Algorithms/Big%20Sorting/Solution.cs)|Easy|20|O(n*logn)|O(n)
+[Super Reduced String](./Problem%20Solving/Algorithms/Super%20Reduced%20String)|[C#](./Problem%20Solving/Algorithms/Super%20Reduced%20String/Solution.cs)|Easy|10|O(n)|O(1)
+[Intro to Tutorial Challenges](./Problem%20Solving/Algorithms/Intro%20to%20Tutorial%20Challenges)|[C#](./Problem%20Solving/Algorithms/Intro%20to%20Tutorial%20Challenges/Solution.cs)|Easy|30|O(logn)|O(1)
